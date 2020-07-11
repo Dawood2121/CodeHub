@@ -16,7 +16,7 @@ main()
 	}
 	else if(age<18)
 	{
-		cout<<"you are minor u cant vote!"
+		cout<<"you are minor u cant vote!";
 	}
 	else 
 	{
